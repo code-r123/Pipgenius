@@ -1,0 +1,59 @@
+/*
+Template Name: Ecourse
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************academy****************/
+.academy_1li1 span{
+width:70px;
+height:70px;
+line-height:70px;
+border:1px solid  #e32845; 
+ }
+.academy_1li1:hover{
+background:#e32845;
+ }
+.academy_1li1:hover span{
+color:#fff;
+border:1px solid  #fff;
+ }
+.academy_1li1:hover p{
+color:#fff;
+ }
+.academy_1li1:hover h6 a{
+color:#fff;
+ }
+.academy_1li1:hover h4{
+color:#fff;
+ }
+.academy_1li1{
+transition: 0.3s; 
+ }
+/*********************academy_end****************/
+
+
+@media screen and (max-width : 767px){
+.academy_1li1 {
+margin-top:8px;
+margin-bottom:8px; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1330px) {
+
+ }
+
+

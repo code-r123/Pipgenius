@@ -1,0 +1,74 @@
+/*
+Template Name: Ecourse
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************blog****************/
+.blog_1r1 ul li a {
+background:#fff; 
+padding: 7px 14px;
+font-size: 14px;
+margin: 0 2px 7px 0;
+display: block;
+border-radius: 5px;
+}
+.blog_1r1 ul li a:hover {
+background:#e32845; 
+color:#fff;
+}
+.blog_dt3ir h6 a{
+width:35px;
+height:35px;
+line-height:35px; 
+ }
+.blog_dt3ir h6 a:hover{
+background:#e32845!important; 
+color:#fff;
+ }
+/*********************blog_end****************/
+
+
+@media screen and (max-width : 767px){
+
+.blog_dt1 img{
+height:auto; 
+ }
+.blog_dt1 p{
+margin-left:0!important;
+ }
+
+.blog_dt3ir {
+margin-top:15px;
+text-align:left!important; 
+ }
+
+.profile2i1il .form-control{
+margin-top:10px; 
+ }
+.profile2i1il h6{
+text-align:center;
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.blog_dt3ir h6 a {
+width:30px;
+height:30px;
+line-height:30px;
+}
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1330px) {
+
+ }
+
+
